@@ -30,4 +30,5 @@ IMPORTANT RULES:
 - For F&B totals, use the F&B minimum if that's the only figure available
 - Be precise with dollar amounts - include cents when shown
 - When calculating room nights from check-in/check-out dates, count the NUMBER OF NIGHTS between those dates (not the number of days). For example, check-in Dec 4 and check-out Dec 6 = 2 nights (Dec 4→5 and Dec 5→6), NOT 3.
-- If the email truly contains no pricing data at all (just a proposal link with no rates mentioned), then use "See attached proposal" for the financial fields.`;
+- If the email truly contains no pricing data at all (just a proposal link with no rates mentioned), then use "See attached proposal" for the financial fields.
+- If the hotel explicitly states they are NOT holding rooms or meeting space (e.g., "I am not holding any guest rooms or meeting space at this time"), reflect that status in the relevant fields (e.g., "No rooms held at this time — see proposal link for rates" or "No space held at this time"). This is more informative than a generic "See attached proposal".`;
